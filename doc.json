@@ -1,0 +1,389 @@
+{
+    "DIRECTION": [
+        {
+            "LIST_GROUP": [
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Лебедев Никита Данилович",
+                            "NUMBER_STUDENT": "I59120"
+                        },
+                        {
+                            "NAME_STUDENT": "Козлов Андрей Бедросович",
+                            "NUMBER_STUDENT": "I59138"
+                        },
+                        {
+                            "NAME_STUDENT": "Грибов Вадим Валентинович",
+                            "NUMBER_STUDENT": "I59125"
+                        }
+                    ],
+                    "NAME_GROUP": "I591"
+                },
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Попов Сергей Тимофеевич",
+                            "NUMBER_STUDENT": "I59213"
+                        },
+                        {
+                            "NAME_STUDENT": "Петров Андрей Николаевич",
+                            "NUMBER_STUDENT": "I59231"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Дмитрий Тимофеевич",
+                            "NUMBER_STUDENT": "I59204"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Лев Игнатьевич",
+                            "NUMBER_STUDENT": "I59219"
+                        },
+                        {
+                            "NAME_STUDENT": "Егоров Лев Богданович",
+                            "NUMBER_STUDENT": "I59218"
+                        },
+                        {
+                            "NAME_STUDENT": "Захаров Сергей Михайлович",
+                            "NUMBER_STUDENT": "I59202"
+                        },
+                        {
+                            "NAME_STUDENT": "Новиков Александр Михайлович",
+                            "NUMBER_STUDENT": "I59222"
+                        },
+                        {
+                            "NAME_STUDENT": "Иванов Егор Тарасович",
+                            "NUMBER_STUDENT": "I59205"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Николай Степанович",
+                            "NUMBER_STUDENT": "I59230"
+                        },
+                        {
+                            "NAME_STUDENT": "Грибов Виктор Павлович",
+                            "NUMBER_STUDENT": "I59228"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Григорий Данилович",
+                            "NUMBER_STUDENT": "I59234"
+                        },
+                        {
+                            "NAME_STUDENT": "Захаров Егор Николаевич",
+                            "NUMBER_STUDENT": "I59216"
+                        },
+                        {
+                            "NAME_STUDENT": "Егоров Андрей Палыч",
+                            "NUMBER_STUDENT": "I59239"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Сергей Игнатьевич",
+                            "NUMBER_STUDENT": "I59218"
+                        }
+                    ],
+                    "NAME_GROUP": "I592"
+                },
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Степанов Алексей Богданович",
+                            "NUMBER_STUDENT": "I59321"
+                        },
+                        {
+                            "NAME_STUDENT": "Козлов Михаил Иосифович",
+                            "NUMBER_STUDENT": "I59318"
+                        },
+                        {
+                            "NAME_STUDENT": "Захаров Роман Артемович",
+                            "NUMBER_STUDENT": "I59326"
+                        },
+                        {
+                            "NAME_STUDENT": "Петров Илья Тарасович",
+                            "NUMBER_STUDENT": "I59325"
+                        },
+                        {
+                            "NAME_STUDENT": "Павлов Глеб Степанович",
+                            "NUMBER_STUDENT": "I59329"
+                        },
+                        {
+                            "NAME_STUDENT": "Фёдоров Марк Тимофеевич",
+                            "NUMBER_STUDENT": "I59332"
+                        },
+                        {
+                            "NAME_STUDENT": "Степанов Роман Иваныч",
+                            "NUMBER_STUDENT": "I59336"
+                        },
+                        {
+                            "NAME_STUDENT": "Волков Никита Валентинович",
+                            "NUMBER_STUDENT": "I59314"
+                        },
+                        {
+                            "NAME_STUDENT": "Елизаров Тимофей Александрович",
+                            "NUMBER_STUDENT": "I59330"
+                        }
+                    ],
+                    "NAME_GROUP": "I593"
+                }
+            ],
+            "NAME_DIRECTION": "Информационные системы и технологии"
+        },
+        {
+            "LIST_GROUP": [
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Лебедев Никита Данилович",
+                            "NUMBER_STUDENT": "I59420"
+                        },
+                        {
+                            "NAME_STUDENT": "Козлов Андрей Бедросович",
+                            "NUMBER_STUDENT": "I59438"
+                        },
+                        {
+                            "NAME_STUDENT": "Грибов Вадим Валентинович",
+                            "NUMBER_STUDENT": "I59425"
+                        },
+                        {
+                            "NAME_STUDENT": "Лебедев Герман Иваныч",
+                            "NUMBER_STUDENT": "I59411"
+                        },
+                        {
+                            "NAME_STUDENT": "Елизаров Илья Артемович",
+                            "NUMBER_STUDENT": "I59436"
+                        },
+                        {
+                            "NAME_STUDENT": "Никитин Андрей Артемович",
+                            "NUMBER_STUDENT": "I59433"
+                        },
+                        {
+                            "NAME_STUDENT": "Алексеев Александр Тарасович",
+                            "NUMBER_STUDENT": "I59436"
+                        },
+                        {
+                            "NAME_STUDENT": "Соколов Никита Тимофеевич",
+                            "NUMBER_STUDENT": "I59406"
+                        },
+                        {
+                            "NAME_STUDENT": "Егоров Владимир Палыч",
+                            "NUMBER_STUDENT": "I59432"
+                        },
+                        {
+                            "NAME_STUDENT": "Николаев Михаил Дмитриевич",
+                            "NUMBER_STUDENT": "I59414"
+                        },
+                        {
+                            "NAME_STUDENT": "Попов Сергей Тимофеевич",
+                            "NUMBER_STUDENT": "I59413"
+                        },
+                        {
+                            "NAME_STUDENT": "Петров Андрей Николаевич",
+                            "NUMBER_STUDENT": "I59431"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Дмитрий Тимофеевич",
+                            "NUMBER_STUDENT": "I59404"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Лев Игнатьевич",
+                            "NUMBER_STUDENT": "I59419"
+                        },
+                        {
+                            "NAME_STUDENT": "Егоров Лев Богданович",
+                            "NUMBER_STUDENT": "I59418"
+                        }
+                    ],
+                    "NAME_GROUP": "I594"
+                },
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Захаров Сергей Михайлович",
+                            "NUMBER_STUDENT": "I59502"
+                        },
+                        {
+                            "NAME_STUDENT": "Новиков Александр Михайлович",
+                            "NUMBER_STUDENT": "I59522"
+                        },
+                        {
+                            "NAME_STUDENT": "Иванов Егор Тарасович",
+                            "NUMBER_STUDENT": "I59505"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Николай Степанович",
+                            "NUMBER_STUDENT": "I59530"
+                        },
+                        {
+                            "NAME_STUDENT": "Грибов Виктор Павлович",
+                            "NUMBER_STUDENT": "I59528"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Григорий Данилович",
+                            "NUMBER_STUDENT": "I59534"
+                        },
+                        {
+                            "NAME_STUDENT": "Захаров Егор Николаевич",
+                            "NUMBER_STUDENT": "I59516"
+                        },
+                        {
+                            "NAME_STUDENT": "Егоров Андрей Палыч",
+                            "NUMBER_STUDENT": "I59539"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Сергей Игнатьевич",
+                            "NUMBER_STUDENT": "I59518"
+                        },
+                        {
+                            "NAME_STUDENT": "Степанов Алексей Богданович",
+                            "NUMBER_STUDENT": "I59521"
+                        }
+                    ],
+                    "NAME_GROUP": "I595"
+                },
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Козлов Михаил Иосифович",
+                            "NUMBER_STUDENT": "I59618"
+                        },
+                        {
+                            "NAME_STUDENT": "Захаров Роман Артемович",
+                            "NUMBER_STUDENT": "I59626"
+                        },
+                        {
+                            "NAME_STUDENT": "Петров Илья Тарасович",
+                            "NUMBER_STUDENT": "I59625"
+                        },
+                        {
+                            "NAME_STUDENT": "Павлов Глеб Степанович",
+                            "NUMBER_STUDENT": "I59629"
+                        },
+                        {
+                            "NAME_STUDENT": "Фёдоров Марк Тимофеевич",
+                            "NUMBER_STUDENT": "I59632"
+                        },
+                        {
+                            "NAME_STUDENT": "Степанов Роман Иваныч",
+                            "NUMBER_STUDENT": "I59636"
+                        },
+                        {
+                            "NAME_STUDENT": "Волков Никита Валентинович",
+                            "NUMBER_STUDENT": "I59614"
+                        },
+                        {
+                            "NAME_STUDENT": "Елизаров Тимофей Александрович",
+                            "NUMBER_STUDENT": "I59630"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Егор Николаевич",
+                            "NUMBER_STUDENT": "I59630"
+                        },
+                        {
+                            "NAME_STUDENT": "Елизаров Михаил Владимирович",
+                            "NUMBER_STUDENT": "I59617"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Григорий Бедросович",
+                            "NUMBER_STUDENT": "I59623"
+                        },
+                        {
+                            "NAME_STUDENT": "Андреев Марк Данилович",
+                            "NUMBER_STUDENT": "I59638"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Егор Тимофеевич",
+                            "NUMBER_STUDENT": "I59626"
+                        },
+                        {
+                            "NAME_STUDENT": "Морозов Алексей Игоревич",
+                            "NUMBER_STUDENT": "I59608"
+                        },
+                        {
+                            "NAME_STUDENT": "Васильев Герман Игнатьевич",
+                            "NUMBER_STUDENT": "I59615"
+                        },
+                        {
+                            "NAME_STUDENT": "Макаров Макар Ярославович",
+                            "NUMBER_STUDENT": "I59617"
+                        },
+                        {
+                            "NAME_STUDENT": "Павлов Никита Степанович",
+                            "NUMBER_STUDENT": "I59601"
+                        },
+                        {
+                            "NAME_STUDENT": "Степанов Роман Николаевич",
+                            "NUMBER_STUDENT": "I59636"
+                        },
+                        {
+                            "NAME_STUDENT": "Макаров Андрей Тарасович",
+                            "NUMBER_STUDENT": "I59621"
+                        },
+                        {
+                            "NAME_STUDENT": "Орлов Никита Павлович",
+                            "NUMBER_STUDENT": "I59604"
+                        }
+                    ],
+                    "NAME_GROUP": "I596"
+                },
+                {
+                    "LIST_STUDENT": [
+                        {
+                            "NAME_STUDENT": "Андреев Владимир Бедросович",
+                            "NUMBER_STUDENT": "I59739"
+                        },
+                        {
+                            "NAME_STUDENT": "Семенов Геннадий Александрович",
+                            "NUMBER_STUDENT": "I59728"
+                        },
+                        {
+                            "NAME_STUDENT": "Волков Анатолий Бедросович",
+                            "NUMBER_STUDENT": "I59713"
+                        },
+                        {
+                            "NAME_STUDENT": "Новиков Герман Владимирович",
+                            "NUMBER_STUDENT": "I59721"
+                        },
+                        {
+                            "NAME_STUDENT": "Кузнецов Николай Игоревич",
+                            "NUMBER_STUDENT": "I59734"
+                        },
+                        {
+                            "NAME_STUDENT": "Смирнов Иван Дмитриевич",
+                            "NUMBER_STUDENT": "I59711"
+                        },
+                        {
+                            "NAME_STUDENT": "Орлов Матвей Палыч",
+                            "NUMBER_STUDENT": "I59736"
+                        },
+                        {
+                            "NAME_STUDENT": "Соколов Михаил Ярославович",
+                            "NUMBER_STUDENT": "I59708"
+                        },
+                        {
+                            "NAME_STUDENT": "Орлов Артем Иосифович",
+                            "NUMBER_STUDENT": "I59722"
+                        },
+                        {
+                            "NAME_STUDENT": "Попов Артем Павлович",
+                            "NUMBER_STUDENT": "I59723"
+                        },
+                        {
+                            "NAME_STUDENT": "Попов Анатолий Иосифович",
+                            "NUMBER_STUDENT": "I59723"
+                        },
+                        {
+                            "NAME_STUDENT": "Иванов Иван Владиславович",
+                            "NUMBER_STUDENT": "I59718"
+                        },
+                        {
+                            "NAME_STUDENT": "Иванов Иван Яковлевич",
+                            "NUMBER_STUDENT": "I59701"
+                        },
+                        {
+                            "NAME_STUDENT": "Козлов Геннадий Данилович",
+                            "NUMBER_STUDENT": "I59737"
+                        }
+                    ],
+                    "NAME_GROUP": "I597"
+                }
+            ],
+            "NAME_DIRECTION": "Программная инженерия"
+        }
+    ]
+}
